@@ -11,4 +11,6 @@ Visit at [Git.MinhyukPark.com](https://Git.MinhyukPark.com)!
 - [DishesAndWishes](https://git.minhyukpark.com/MinhyukPark/dishesandwishes)
 - [IsJenniferHere](https://git.minhyukpark.com/MinhyukPark/isjenniferhere)
 - [Computers-Education-Research](https://git.minhyukpark.com/MinhyukPark/Computers-Education-Research.git)
+- [Facial-Recognition](https://git.minhyukpark.com/MinhyukPark/Facial-Recognition)
+- [Neural-Network](https://git.minhyukpark.com/MinhyukPark/Neural-Network)
 
