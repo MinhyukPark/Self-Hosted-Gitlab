@@ -10,3 +10,5 @@ Visit at [Git.MinhyukPark.com](https://Git.MinhyukPark.com)!
 - [Chess](https://git.minhyukpark.com/MinhyukPark/chess)
 - [DishesAndWishes](https://git.minhyukpark.com/MinhyukPark/dishesandwishes)
 - [IsJenniferHere](https://git.minhyukpark.com/MinhyukPark/isjenniferhere)
+- [Computers-Education-Research](https://git.minhyukpark.com/MinhyukPark/Computers-Education-Research.git)
+
